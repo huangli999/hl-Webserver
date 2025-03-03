@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,liblizyLog.so -o liblizyLog.so CMakeFiles/lizyLog.dir/src/logging.cc.o CMakeFiles/lizyLog.dir/src/utilities.cc.o 
