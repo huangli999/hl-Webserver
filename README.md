@@ -1,4 +1,4 @@
-# lizy-WebServer
+# hl-WebServer
 一个用C++14实现的高并发http服务器
 ## 1. 功能
 * 利用Epoll边缘触发模式+线程池实现的单Reactor模型；
